@@ -1,8 +1,8 @@
 c:\mongodb\bin mongod --dbpath d:\mongodb\bd
 c:\mongodb\bin mongo
 use examen
-https://codeforgeek.com/2015/08/restful-api-node-mongodb/
 npm init
+node-babel app.js --presets-es2015
 npm install --save mongoose
 npm isntall  --save body-parser
 npm install --save express
